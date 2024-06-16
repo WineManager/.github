@@ -1,3 +1,3 @@
 # Welcome to Wine Manager Lab
 
-![Wine Manager Logo](/assets/wine_manager_logo.png)
+![Wine Manager Logo](/assets/wine_manager_logo.jpg)
